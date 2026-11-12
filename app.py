@@ -596,25 +596,32 @@ except Exception as error:
 # 12. SIDEBAR
 # ==========================================================
 
-st.sidebar.markdown("""
+# ==========================================================
+# 12. SIDEBAR
+# ==========================================================
+
+# Sidebar Branding
+st.sidebar.html("""
 <div style="padding:10px 0 22px 0;">
 
     <div style="
-    font-size:25px;
-    font-weight:900;
-    color:#C4B5FD;">
-    ◈ NEXUS
+        font-size:25px;
+        font-weight:900;
+        color:#C4B5FD;
+        line-height:1.3;">
+        ◈ NEXUS
     </div>
 
     <div style="
-    font-size:10px;
-    letter-spacing:2px;
-    color:#8290AD;">
-    ANALYTICS CONTROL CENTER
+        font-size:10px;
+        letter-spacing:2px;
+        color:#8290AD;
+        margin-top:4px;">
+        ANALYTICS CONTROL CENTER
     </div>
 
 </div>
-""", unsafe_allow_html=True)
+""")
 
 st.sidebar.markdown("### 🎛️ Dashboard Controls")
 
@@ -656,7 +663,6 @@ st.sidebar.markdown("---")
 st.sidebar.caption(
     "PlayStore Nexus | Version 1.0"
 )
-
 
 # ==========================================================
 # 13. CATEGORY SELECTION
