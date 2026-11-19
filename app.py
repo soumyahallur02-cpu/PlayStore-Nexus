@@ -47,7 +47,6 @@ st.markdown("""
     padding-top: 1.8rem;
     padding-bottom: 3rem;
 }
-
 /* Hide default header */
 header[data-testid="stHeader"] {
     background: transparent;
