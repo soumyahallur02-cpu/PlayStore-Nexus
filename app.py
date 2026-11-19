@@ -51,7 +51,6 @@ st.markdown("""
 header[data-testid="stHeader"] {
     background: transparent;
 }
-
 /* Sidebar */
 section[data-testid="stSidebar"] {
     background: linear-gradient(
