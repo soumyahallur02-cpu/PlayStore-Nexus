@@ -69,7 +69,6 @@ The following conditions are applied:
 | Events | Events |
 
 ## Bubble Chart Configuration
-
 - X-axis: Application Size (MB)
 - Y-axis: Average Rating
 - Bubble Size: Number of Installs
