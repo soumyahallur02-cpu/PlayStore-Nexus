@@ -1,4 +1,3 @@
-
 # Google Play Store Bubble Chart Dashboard
 
 ## Project Overview
