@@ -60,7 +60,6 @@ section[data-testid="stSidebar"] {
     );
     border-right: 1px solid #293451;
 }
-
 /* Text */
 h1, h2, h3, h4 {
     color: #FFFFFF !important;
