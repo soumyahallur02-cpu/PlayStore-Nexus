@@ -83,7 +83,6 @@ p, label, li {
     box-shadow: 0 15px 45px rgba(83,47,180,0.20);
     margin-bottom: 24px;
 }
-
 .hero::after {
     content: "✦";
     position: absolute;
