@@ -98,7 +98,6 @@ p, label, li {
     font-weight: 800;
     letter-spacing: 3px;
 }
-
 .hero-title {
     color: white;
     font-size: clamp(27px, 4vw, 43px);
