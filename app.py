@@ -9,7 +9,6 @@ from pathlib import Path
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-
 # ==========================================================
 # 1. PAGE CONFIGURATION
 # ==========================================================
