@@ -12,7 +12,6 @@ from zoneinfo import ZoneInfo
 # ==========================================================
 # 1. PAGE CONFIGURATION
 # ==========================================================
-
 st.set_page_config(
     page_title="PlayStore Nexus | App Intelligence",
     page_icon="🫧",
