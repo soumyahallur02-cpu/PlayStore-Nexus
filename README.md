@@ -90,7 +90,6 @@ The Bubble Chart is available only between:
 
 Outside this time window, the chart is hidden and a warning
 message is displayed.
-
 The dashboard checks the time every 60 seconds.
 
 ## Installation Instructions
