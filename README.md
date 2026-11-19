@@ -6,7 +6,6 @@ This project is an interactive Streamlit dashboard that analyzes
 Google Play Store applications using a Bubble Chart.
 
 The dashboard visualizes the relationship between:
-
 - Application Size (MB)
 - Average Application Rating
 - Number of Installs
