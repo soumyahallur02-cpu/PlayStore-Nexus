@@ -64,7 +64,6 @@ h1, h2, h3, h4 {
     color: #FFFFFF !important;
     font-family: 'Inter', sans-serif !important;
 }
-
 p, label, li {
     color: #C3CBE0;
 }
