@@ -86,7 +86,6 @@ Hovering over a bubble displays:
 
 ## Time Restriction
 The Bubble Chart is available only between:
-
 5:00 PM IST and 7:00 PM IST.
 
 Outside this time window, the chart is hidden and a warning
