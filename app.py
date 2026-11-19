@@ -41,7 +41,6 @@ st.markdown("""
     font-family: 'Inter', sans-serif;
     color: #F8FAFC;
 }
-
 /* Main content */
 .block-container {
     max-width: 1550px;
