@@ -2,7 +2,6 @@
 # Google Play Store Bubble Chart Dashboard
 
 ## Project Overview
-
 This project is an interactive Streamlit dashboard that analyzes
 Google Play Store applications using a Bubble Chart.
 
