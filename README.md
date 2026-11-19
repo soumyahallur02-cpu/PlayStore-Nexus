@@ -97,7 +97,6 @@ The dashboard checks the time every 60 seconds.
 ### Step 1: Create a Virtual Environment
 
 Windows:
-
 python -m venv venv
 
 ### Step 2: Activate Virtual Environment
