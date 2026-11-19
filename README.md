@@ -35,7 +35,6 @@ PlayStore_Bubble_Chart/
 ## Data Processing
 
 The application performs the following operations:
-
 1. Loads the Play Store dataset.
 2. Loads the User Reviews dataset.
 3. Cleans application size values.
