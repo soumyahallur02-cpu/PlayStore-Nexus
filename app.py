@@ -68,7 +68,6 @@ h1, h2, h3, h4 {
 p, label, li {
     color: #C3CBE0;
 }
-
 /* Hero banner */
 .hero {
     position: relative;
