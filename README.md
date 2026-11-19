@@ -15,7 +15,6 @@ The dashboard uses two datasets:
 2. User Reviews(3).csv
 
 ## Technologies Used
-
 - Python
 - Streamlit
 - Pandas
