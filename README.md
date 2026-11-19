@@ -44,7 +44,6 @@ The application performs the following operations:
 9. Generates an interactive Plotly Bubble Chart.
 
 ## Filtering Conditions
-
 The following conditions are applied:
 
 - Rating must be greater than 3.5.
