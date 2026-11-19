@@ -85,7 +85,6 @@ The following conditions are applied:
 - Game Category: Pink (#FF69B4)
 
 Hovering over a bubble displays:
-
 - App Name
 - Category
 - Application Size
