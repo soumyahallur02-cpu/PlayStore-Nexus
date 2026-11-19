@@ -12,7 +12,6 @@ The dashboard visualizes the relationship between:
 - Number of Installs
 
 The dashboard uses two datasets:
-
 1. Play Store Data(3).csv
 2. User Reviews(3).csv
 
