@@ -85,7 +85,6 @@ Hovering over a bubble displays:
 - Average Sentiment Subjectivity
 
 ## Time Restriction
-
 The Bubble Chart is available only between:
 
 5:00 PM IST and 7:00 PM IST.
